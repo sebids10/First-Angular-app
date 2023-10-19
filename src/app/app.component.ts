@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
       <header class="header">
         <img src="/assets/donut_logo.jpg" alt="Ultimate logo" class="logo" />
       </header>
-      <donut-single></donut-single>
+      <router-outlet></router-outlet>
     </div>
   `,
   styles: [
