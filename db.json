@@ -1,0 +1,41 @@
+{
+  "donuts": [
+    {
+      "id": "ydada",
+      "name": "JustChoclateDonut",
+      "icon": "justchoclateicon",
+      "promo": "limited",
+      "price": 199,
+      "description": "For the pure choclate"
+    },
+    {
+      "id": "dasdasda",
+      "name": "GlazedDonut",
+      "icon": "glaze-fudge",
+      "price": 129,
+      "promo": "new",
+      "description": "like sticky"
+    },
+    {
+      "id": "adaad",
+      "name": "CaramelDonut",
+      "icon": "caramel-fudge",
+      "price": 129,
+      "description": "choclate caramel"
+    },
+    {
+      "id": "xaxad",
+      "name": "Sour Supreme",
+      "icon": "sour-supreme",
+      "price": 150,
+      "description": "For the all people"
+    },
+    {
+      "id": "xbxbc",
+      "name": "Zesty Lemon",
+      "icon": "zesty-lemon",
+      "price": 129,
+      "description": "Delicios lucios lemon"
+    }
+  ]
+}

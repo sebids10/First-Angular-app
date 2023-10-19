@@ -1,0 +1,49 @@
+.donut-card/*pentru a face border ul direct la app donut card, feature de la angular */
+  {
+    display: flex;
+    align-items: center;
+    background: #f7f7f7;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px 15px;
+    transition: transform 0.2s ease-in-out;
+    &:hover{
+      transform: translateY(-7px);
+    } 
+    &-promo
+    {
+      border: 2px solid #160f7d;
+
+    }
+    &-not-promo
+    {
+      border: 2px solid #a30606;
+    }
+    &-name{
+       display: flex;
+       font-size: 16px;
+       color:blue;
+       
+    }
+    &-label
+    {
+      border: 1px solid #c14583;
+      border-radius: 4px;
+      padding: 0 4px;
+      margin-left: 5px;
+      font-size: 12px;
+      color: #c14583;
+
+    }
+    &-price{
+     
+      font-size: 14px;
+      color: #c14583;
+    }
+    &-icon{
+      width:50px;
+      margin-right:10px;
+    }
+   
+  } 
+  
