@@ -4,8 +4,8 @@
       "id": "ydada",
       "name": "JustChoclateDonut",
       "icon": "justchoclateicon",
+      "price": 200,
       "promo": "limited",
-      "price": 199,
       "description": "For the pure choclate"
     },
     {
