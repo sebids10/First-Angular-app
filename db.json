@@ -4,7 +4,7 @@
       "id": "ydada",
       "name": "JustChoclateDonut",
       "icon": "justchoclateicon",
-      "price": 200,
+      "price": 210,
       "promo": "limited",
       "description": "For the pure choclate"
     },
@@ -12,7 +12,7 @@
       "id": "dasdasda",
       "name": "GlazedDonut",
       "icon": "glaze-fudge",
-      "price": 129,
+      "price": 131,
       "promo": "new",
       "description": "like sticky"
     },
@@ -36,6 +36,14 @@
       "icon": "zesty-lemon",
       "price": 129,
       "description": "Delicios lucios lemon"
+    },
+    {
+      "id": "8143awv",
+      "name": "Testing",
+      "icon": "caramel-fudge",
+      "price": 8,
+      "promo": "limited",
+      "description": "New in town.."
     }
   ]
 }
